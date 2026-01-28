@@ -12,7 +12,7 @@ import numpy as np
 import matplotlib.animation as animation
 
 # Fixing random state for reproducibility
-np.random.seed(19680801)
+# np.random.seed(19680801)
 
 
 def random_walk(num_steps, max_step=0.05):
